@@ -21,4 +21,4 @@ so that I can leave my legacy, things that I could build and help others.
 <a href="mailto:sradtsor@gmail.com" target="blank"><img alt="Gmail Badge" src="https://img.shields.io/badge/-sradtsor@gmail.com-563D7C?style=flat-square&logo=Gmail&logoColor=orange&link=mailto:sradtsor@gmail.com"/></a>
 </p>
 
-## *Thanks for visiting my planet, Padawan!*👨‍🚀
+> ## Thanks for visiting my planet, Padawan!👨‍🚀
