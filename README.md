@@ -1,10 +1,10 @@
-## Welcome to my world, dear contributor! 
+# Welcome to my world, dear contributor! 
 ### My name is Thiago Guedes, I'm 29 years old and currently live in Brasília-DF. 
-> ### I'm studying actualy in [Universidade Católica de Brasília-UCB] (https://ucb.catolica.edu.br/) 🔭
-> ### I'm studying in [RocketSeat] too (https://app.rocketseat.com.br/) 🎯
+> ### I'm studying actualy in Universidade Católica de Brasília-UCB (https://ucb.catolica.edu.br/) 🔭
+> ### I'm studying in @RocketSeat too (https://app.rocketseat.com.br/) 🎯
 
-I love helping people and I try to change my community positively
-so that I can leave my legacy, things that I could build and help others.
+I love help people and I try to change my community positively
+so that I can leave my legacy in things that I could build and help others.
 
 >**I like C#, HTML, CSS, and JS. Currently trying to improve my skills on these.** ⭐️
 
