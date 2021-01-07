@@ -4,13 +4,13 @@
 <p align="center">
   <img src="https://media.giphy.com/media/jARan3OBfJENnQokBZ/giphy.gif" alt="animated" />
 </p>
-<p>📌I'm 29 years old and currently live in Brasília-DF, but open to changes.</p>
+<p><h2>📌I'm 29 years old, currently live in Brasília-DF and open to changes.</h2></p>🌎
   <p><h3>🎓I owned a scholarship and currently studying <b>Management of Technology of Information</b> on <a href="https://ucb.catolica.edu.br/">Universidade Católica de Brasília-UCB</a></p>
   <p>👨‍💻I'm studying in <a href="https://app.rocketseat.com.br/">RocketSeat</a> and <a href="https://web.digitalinnovation.one/">Digital Inovation One</a> to improve my hardskills (and softs too, buddy!)</h3></p>
 
 <b>I love help people and I try to change my community positively
 so that I can leave my legacy in things that I could build and help others.
-  I like C#, HTML, CSS, and JS. Currently trying to improve my skills on these.</b>🌎🙌
+  I like C#, HTML, CSS, and JS. Currently trying to improve my skills on these.</b>🙌
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Guedesou&show_icons=true&theme=gruvbox"> 
