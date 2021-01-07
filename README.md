@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/jARan3OBfJENnQokBZ/giphy.gif" alt="animated" />
 </p>
-<p><h2>📌I'm 29 years old, currently live in Brasília-DF and open to changes.</h2></p>🌎
+<p><h2>📌I'm 29 years old, currently live in Brasília-DF and open to changes.🌎</h2></p>
   <p><h3>🎓I owned a scholarship and currently studying <b>Management of Technology of Information</b> on <a href="https://ucb.catolica.edu.br/">Universidade Católica de Brasília-UCB</a></p>
   <p>👨‍💻I'm studying in <a href="https://app.rocketseat.com.br/">RocketSeat</a> and <a href="https://web.digitalinnovation.one/">Digital Inovation One</a> to improve my hardskills (and softs too, buddy!)</h3></p>
 
