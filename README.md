@@ -1,4 +1,4 @@
-<h1><b>🛸Welcome to my world, Folks!👋</b></h1>
+<h1><b>🛸Welcome to my world!👋</b></h1>
 
 
 <p align="center">
@@ -13,17 +13,17 @@ so that I can leave my legacy in things that I could build and help others.
   I like C#, HTML, CSS, and JS. Currently trying to improve my skills on these.</b>🙌
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Guedesou&show_icons=true&theme=gruvbox"> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Guedesou&show_icons=true&theme=highcontrast"> 
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guedesou&layout=compact&theme=gruvbox"> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guedesou&layout=compact&theme=highcontrast"> 
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/guedesou/" target="blank"><img alt="Linkedin Badge" src="https://img.shields.io/badge/-Thiago%20Guedes-563D7C?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guedesou/"/></a>
- <a href="https://medium.com/@sradtsor" target="blank"><img alt="Medium Badge" src="https://img.shields.io/badge/-Thiago%20Guedes-563D7C?style=flat-square&logo=Medium&logoColor=black&link=https://medium.com/@sradtsor"/></a>
-<a href="mailto:sradtsor@gmail.com" target="blank"><img alt="Gmail Badge" src="https://img.shields.io/badge/-sradtsor@gmail.com-563D7C?style=flat-square&logo=Gmail&logoColor=orange&link=mailto:sradtsor@gmail.com"/></a>
+<a href="https://www.linkedin.com/in/guedesou/" target="blank"><img alt="Linkedin Badge" src="https://img.shields.io/badge/-Thiago%20Guedes-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guedesou/"/></a>
+ <a href="https://medium.com/@sradtsor" target="blank"><img alt="Medium Badge" src="https://img.shields.io/badge/-Thiago%20Guedes-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@sradtsor"/></a>
+<a href="mailto:sradtsor@gmail.com" target="blank"><img alt="Gmail Badge" src="https://img.shields.io/badge/-sradtsor@gmail.com-black?style=flat-square&logo=Gmail&logoColor=orange&link=mailto:sradtsor@gmail.com"/></a>
 </p>
 
 <b><h2>Thanks for visiting my planet, Padawan!👨‍🚀 </h2></b>
