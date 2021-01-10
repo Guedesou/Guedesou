@@ -4,12 +4,10 @@
 <p align="center">
   <img src="https://media.giphy.com/media/jARan3OBfJENnQokBZ/giphy.gif" alt="animated" />
 </p>
-<p><h2><b>📌I'm 29 years old, currently live in Brasília-DF and open to changes.🌎</b></h2></p>
-  <p><h3><b>🎓I owned a scholarship and currently studying <b>Management of Technology of Information</b> on <a href="https://ucb.catolica.edu.br/">Universidade Católica de Brasília-UCB</b></a></p>
-  <p>👨‍💻<b>I'm studying in <a href="https://app.rocketseat.com.br/">RocketSeat</a> and <a href="https://web.digitalinnovation.one/">Digital Inovation One</a> to improve my hardskills (and softs too, buddy!)</b></h3></p>
-<h3><b>I love help people and I try to change my community positively
-so that I can leave my legacy in things that I could build and help others.
-  I like C#, HTML, CSS, and JS. Currently trying to improve my skills on these 🙌</b></h3>
+<p><h2><b>📌Brasília-DF, and open to changes.🌎</b></h2></p>
+  <p><h3><b>🎓 Studying <b>Management of Technology of Information-EAD</b> on <a href="https://ucb.catolica.edu.br/">Universidade Católica de Brasília-UCB</b></a></p>
+  <p>👨‍💻<b>Studying in <a href="https://app.rocketseat.com.br/">RocketSeat</a> and <a href="https://web.digitalinnovation.one/">Digital Inovation One</a> to improve my hardskills.</b></h3></p>
+<h3><b>I like C#, HTML, CSS, and JS. Currently trying to improve my skills on these 🙌</b></h3>
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Guedesou&show_icons=true&theme=highcontrast"> 
