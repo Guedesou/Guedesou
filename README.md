@@ -9,7 +9,7 @@
   <p>👨‍💻<b>I'm studying in <a href="https://app.rocketseat.com.br/">RocketSeat</a> and <a href="https://web.digitalinnovation.one/">Digital Inovation One</a> to improve my hardskills (and softs too, buddy!)</b></h3></p>
 <h3><b>I love help people and I try to change my community positively
 so that I can leave my legacy in things that I could build and help others.
-  I like C#, HTML, CSS, and JS. Currently trying to improve my skills on these.</b></h3>🙌
+  I like C#, HTML, CSS, and JS. Currently trying to improve my skills on these 🙌</b></h3>
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Guedesou&show_icons=true&theme=highcontrast"> 
