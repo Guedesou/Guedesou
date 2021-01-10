@@ -1,4 +1,4 @@
-<h1><b>🛸Welcome to my world, folks!🌎👋</b></h1>
+<h1><b>🛸WELCOME TO MY WORLD, FOLKS!🌎</b></h1>
 
 
 <p align="center">
@@ -6,7 +6,7 @@
 </p>
 <p><h2><b>📌Brasília-DF, and open to changes.</b></h2></p>
   <p><h3><b>🎓 Studying <b>Management of Technology of Information-EAD</b> on <a href="https://ucb.catolica.edu.br/">Universidade Católica de Brasília-UCB</b></a></p>
-  <p>👨‍💻<b>Studying in <a href="https://app.rocketseat.com.br/">RocketSeat</a> and <a href="https://web.digitalinnovation.one/">Digital Inovation One</a> to improve my hardskills.</b></h3></p>
+  <p>👨‍💻<b>Studying in <a href="https://app.rocketseat.com.br/">RocketSeat</a> and <a href="https://web.digitalinnovation.one/">Digital Inovation One</a> to improve my development skills.</b></h3></p>
 <h3><b>I like C#, HTML, CSS, and JS. Currently trying to improve my skills on these 🙌</b></h3>
 
 <p align="center">
