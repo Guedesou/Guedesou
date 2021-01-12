@@ -1,6 +1,5 @@
 <h1><b>🛸WELCOME TO MY WORLD, FOLKS!🌎</b></h1>
 
-
 <p align="center">
   <img src="https://media.giphy.com/media/jARan3OBfJENnQokBZ/giphy.gif" alt="animated" />
 </p>
@@ -23,5 +22,8 @@
 <a href="mailto:sradtsor@gmail.com" target="blank"><img alt="Gmail Badge" src="https://img.shields.io/badge/-sradtsor@gmail.com-black?style=flat-square&logo=Gmail&logoColor=orange&link=mailto:sradtsor@gmail.com"/></a>
 </p>
 
+<p align="center">
+<img src="https://media0.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=ecf05e47xjqleacp3bla5o77tk5yfaywkxzqfiw0jvth4hmo&rid=giphy.gif" alt="animated" /> 
+  </p>
+  
 <b><h2>Thanks for visiting my planet, Padawan!👨‍🚀 </h2></b>
-
