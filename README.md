@@ -4,8 +4,9 @@
   <img src="https://media.giphy.com/media/jARan3OBfJENnQokBZ/giphy.gif" alt="animated" />
 </p>
 <p><h2><b>📌Brasília-DF, and open to changes.</b></h2></p>
-  <p><h3><b>🎓 Studying <b>Management of Technology of Information-EAD</b> on <a href="https://ucb.catolica.edu.br/">Universidade Católica de Brasília-UCB</b></a></p>
-  <p>👨‍💻<b>Studying in <a href="https://app.rocketseat.com.br/">RocketSeat</a> and <a href="https://web.digitalinnovation.one/">Digital Inovation One</a> to improve my development skills.</b></h3></p>
+  <p><ul><h3><b>🎓 Graduating <b>Management of Technology of Information-EAD</b> on <a href="https://ucb.catolica.edu.br/">Universidade Católica de Brasília-UCB</b></a></ul></p>
+  <p><ul><b>👨‍💻 Studying in <a href="https://app.rocketseat.com.br/">RocketSeat</a></u> and <u><a href="https://web.digitalinnovation.one/">Digital Inovation One</a> to improve my development skills.</b></h3></ul>
+  </p>
 <h3><b>I like C#, HTML, CSS, and JS. Currently trying to improve my skills on these 🙌</b></h3>
 
 <p align="center">
