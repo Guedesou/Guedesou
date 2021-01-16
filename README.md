@@ -7,7 +7,7 @@
   <p><ul><h3><b>🎓 Graduating <b>Management of Technology of Information-EAD</b> on <a href="https://ucb.catolica.edu.br/">Universidade Católica de Brasília-UCB</b></a></ul></p>
   <p><ul><b>👨‍💻 Studying in <a href="https://app.rocketseat.com.br/">RocketSeat</a></u> and <u><a href="https://web.digitalinnovation.one/">Digital Inovation One</a> to improve my development skills.</b></h3></ul>
   </p>
-<h3><b>I like C#, HTML, CSS, and JS. Currently trying to improve my skills on these 🙌</b></h3>
+<h3><b>I'm learning Java, HTML, CSS, and JS. Currently trying to improve my skills on these 🙌</b></h3>
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Guedesou&show_icons=true&theme=highcontrast"> 
