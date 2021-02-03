@@ -1,13 +1,19 @@
-<h1><b>🛸WELCOME TO MY WORLD, FOLKS!🌎</b></h1>
+<h1><b>🛸BEM-VINDOS AO MEU MUNDO, AMIGOS!🌎</b></h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/jARan3OBfJENnQokBZ/giphy.gif" alt="animated" />
 </p>
-<p><h2><b>📌Brasília-DF and open to changes.</b></h2></p>
-  <p><ul><h3><b>🎓 Graduating <b>Management of Technology of Information-EAD</b> on <a href="https://ucb.catolica.edu.br/">Universidade Católica de Brasília-UCB</b></a></ul></p>
-  <p><ul><b>👨‍💻 Studying in <a href="https://app.rocketseat.com.br/">RocketSeat</a></u> and <u><a href="https://web.digitalinnovation.one/">Digital Inovation One</a> to improve my development skills.</b></h3></ul>
+<p><h2><b>📌Brasília-DF</b></h2></p>
+  <p><ul><h3><b>🎓 Cursando <b> Gestão de Tecnologia da Informação </b> na <a href="https://ucb.catolica.edu.br/">Universidade Católica de Brasília-UCB</b></a></ul></p>
+  <p><ul><b>👨‍💻 Estudando na <a href="https://app.rocketseat.com.br/">RocketSeat</a></u> e <u><a href="https://web.digitalinnovation.one/">Digital Inovation One</a> para melhorar minhas habilidades de desenvolvimento.
+Na segunda sou o primeiro colocado em reputação dentro da plataforma porque gosto muuuito de ajudar! Acredito no poder do trabalho conjunto e em sinergia.</b></h3></ul>
   </p>
-<h3><b>I'm learning Java, HTML, CSS, and JS. Currently trying to improve my skills on these 🙌</b></h3>
+<p><h3><b>Gosto de trabalhar com:</p>
+ <ul><li>React, 
+     <li>Typescript,
+     <li>HTML,
+     <li>CSS,
+     <li>e  JavaScript.</li></b></h3><ul>
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Guedesou&show_icons=true&theme=highcontrast"> 
@@ -27,4 +33,4 @@
 <img src="https://media0.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=ecf05e47xjqleacp3bla5o77tk5yfaywkxzqfiw0jvth4hmo&rid=giphy.gif" alt="animated" /> 
   </p>
   
-<b><h2>Thanks for visiting my planet, Padawan!👨‍🚀 </h2></b>
+<b><h2>Obrigado por visitar meu planeta, Padawan!👨‍🚀 </h2></b>
