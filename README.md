@@ -20,16 +20,16 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Guedesou&show_icons=true&theme=highcontrast"> 
 </p>
 
-
+<h3 align="center"> Entre em contato comigo:</h3>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/guedesou/" target="blank"><img alt="Linkedin Badge" src="https://img.shields.io/badge/-Thiago%20Guedes-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guedesou/"/></a>
  <a href="https://medium.com/@sradtsor" target="blank"><img alt="Medium Badge" src="https://img.shields.io/badge/-Thiago%20Guedes-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@sradtsor"/></a>
-<a href="mailto:sradtsor@gmail.com" target="blank"><img alt="Gmail Badge" src="https://img.shields.io/badge/-sradtsor@gmail.com-black?style=flat-square&logo=Gmail&logoColor=orange&link=mailto:sradtsor@gmail.com"/></a> </p>
+<a href="mailto:sradtsor@gmail.com" target="blank"><img alt="Gmail Badge" src="https://img.shields.io/badge/-sradtsor@gmail.com-black?style=flat-square&logo=Gmail&logoColor=orange&link=mailto:sradtsor@gmail.com"/></a></p>
 
   
-<b><h2 align="center"> Obrigado por visitar meu planeta, Padawan!👨‍🚀 </h2></b>
-
 <p align="center">
-<img src="https://media0.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=ecf05e47xjqleacp3bla5o77tk5yfaywkxzqfiw0jvth4hmo&rid=giphy.gif" alt="animated" /> 
+<img src="https://media0.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=ecf05e47xjqleacp3bla5o77tk5yfaywkxzqfiw0jvth4hmo&rid=giphy.gif" width="300" alt="animated" /> 
   </p>
+  
+<b><h2 align="center"> Obrigado por visitar meu planeta, Padawan!👨‍🚀 </h2></b>
