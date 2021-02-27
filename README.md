@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/jARan3OBfJENnQokBZ/giphy.gif" alt="animated"/>
+  <img src="https://media.giphy.com/media/rtKXquzMwllLCui2Ab/giphy.gif" width="500" alt="animated"/>
 </p>
   <p><h3><b>🎓 Cursando <b> Gestão de Tecnologia da Informação </b> na <a href="https://ucb.catolica.edu.br/">Universidade Católica de Brasília-UCB. 📓</b></a></p>
   
