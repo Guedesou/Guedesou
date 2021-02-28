@@ -30,7 +30,7 @@
 
   
 <p align="center">
-<img src="https://media0.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=ecf05e47xjqleacp3bla5o77tk5yfaywkxzqfiw0jvth4hmo&rid=giphy.gif" width="300" alt="animated" /> 
+<img src="https://media0.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=ecf05e47xjqleacp3bla5o77tk5yfaywkxzqfiw0jvth4hmo&rid=giphy.gif" width="250" alt="animated" /> 
   </p>
   
-<b><h2 align="center"> Obrigado por visitar meu planeta, Padawan!👨‍🚀 </h2></b>
+<h2 align="center"><b> Obrigado por visitar meu planeta, Padawan!👨‍🚀</b></h2>
