@@ -5,13 +5,14 @@
 <p align="center">
   <img src="https://media.giphy.com/media/Yh0Q9G40KirBYM6tIs/giphy.gif" width="500" alt="animated"/>
 </p>
-  <p><h3><b>🎓 Cursando <b> Gestão de Tecnologia da Informação </b> na <a href="https://ucb.catolica.edu.br/">Universidade Católica de Brasília-UCB. 📓</b></a></p>
+<ul>
+  <p><li><h3><b>🎓 Cursando <b> Gestão de Tecnologia da Informação </b> na <a href="https://ucb.catolica.edu.br/">Universidade Católica de Brasília-UCB</b>📓</a></li></p>
   
   
-  <p><h3>👨‍💻 Estagiário na <u><a href="https://web.digitalinnovation.one/">Digital Inovation One</a>, que é a melhor escola GRATUITA para melhorar habilidades de desenvolvimento e soft skills com foco em empregabilidade de verdade!</h3></p>
+  <p><li><h3>👨‍💻 Estagiário na <u><a href="https://web.digitalinnovation.one/">Digital Inovation One</a>, que é a melhor escola GRATUITA para melhorar habilidades de desenvolvimento e soft skills com foco em empregabilidade de verdade!</h3></li></p>
   
-<p><h3>🏆Sou o primeiro colocado em reputação dentro da plataforma porque gosto muuuito de ajudar outras pessoas e isso mesmo desde antes de estar dentro do time. Sou muito grato pela equipe da DIO e por toda a comunidade que soma tanto. Acredito no poder do trabalho conjunto e em sinergia.🙏</h3></p>
-
+<p><li><h3>🏆Sou o primeiro colocado em reputação dentro da plataforma porque gosto muuuito de ajudar outras pessoas e isso mesmo desde antes de estar dentro do time. Sou muito grato pela equipe da DIO e por toda a comunidade que soma tanto. Acredito no poder do trabalho conjunto e em sinergia.🙏</h3></li></p>
+</ul>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guedesou&layout=compact&theme=highcontrast"> 
 </p>
