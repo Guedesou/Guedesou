@@ -1,5 +1,5 @@
-<p align="center">
-<h1 align="center"><b>Bem-vindo ao meu mundo, colaborador!🌎🛸</b></h1>
+<p>
+<h1 align="center"><b>🌎Bem-vindo ao meu mundo, colaborador!🛸</b></h1>
 </p>
 
 <p align="center">
