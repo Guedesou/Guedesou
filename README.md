@@ -6,10 +6,10 @@
   <img src="https://media.giphy.com/media/Yh0Q9G40KirBYM6tIs/giphy.gif" width="500" alt="animated"/>
 </p>
 <ul>
-  <p><li><h3><b>🎓 Cursando <b> Gestão de Tecnologia da Informação </b> na <a href="https://ucb.catolica.edu.br/">Universidade Católica de Brasília-UCB</b>📓</a></li></p>
+  <p><li><h3><b>🎓 Último semestre <b> Gestão de Tecnologia da Informação </b> na <a href="https://ucb.catolica.edu.br/">Universidade Católica de Brasília-UCB</b>📓</a></li></p>
   
   
-  <p><li><h3>👨‍💻 Community Support Analyst na <u><a href="https://web.digitalinnovation.one/">Digital Inovation One</a>, que é a melhor escola GRATUITA para melhorar habilidades de desenvolvimento e soft skills com foco em empregabilidade de verdade!</h3></li></p>
+  <p><li><h3>👨‍💻 Community Manager na <u><a href="https://web.digitalinnovation.one/">Digital Inovation One</a>, que é a melhor escola GRATUITA para melhorar habilidades de desenvolvimento e soft skills com foco em empregabilidade de verdade!</h3></li></p>
   
 <p><li><h3>🏆Sou o primeiro colocado em reputação dentro da plataforma porque gosto muuuito de ajudar outras pessoas e isso mesmo desde antes de estar dentro do time. Sou muito grato pela equipe da DIO e por toda a comunidade que soma tanto. Acredito no poder do trabalho conjunto e em sinergia.🙏</h3></li></p>
 </ul>
