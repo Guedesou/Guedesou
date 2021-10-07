@@ -11,7 +11,7 @@
   
   <p><li><h3>👨‍💻 Community Manager na <u><a href="https://web.digitalinnovation.one/">Digital Inovation One</a>, que é a melhor escola GRATUITA para melhorar habilidades de desenvolvimento e soft skills com foco em empregabilidade de verdade!</h3></li></p>
   
-<p><li><h3>🏆Sou o primeiro colocado em reputação dentro da plataforma porque gosto muuuito de ajudar outras pessoas e isso mesmo desde antes de estar dentro do time. Sou muito grato pela equipe da DIO e por toda a comunidade que soma tanto. Acredito no poder do trabalho conjunto e em sinergia.🙏</h3></li></p>
+<p><li><h3>🏆Sou um dos melhores colocados em reputação dentro da plataforma porque gosto muuuito de ajudar outras pessoas e isso mesmo desde antes de estar dentro do time. Sou muito grato pela equipe da DIO e por toda a comunidade que soma tanto. Acredito no poder do trabalho conjunto e em sinergia.🙏</h3></li></p>
 </ul>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guedesou&layout=compact&theme=highcontrast"> 
