@@ -11,11 +11,11 @@
 
 <ul>
   
- <p><li><h3>👨‍💻 My last job was as a Systems Analyst at <u><a href="https://dio.me/">Digital Innovation One</a>, which is a free edTech to improve IT software development skills; in addition to soft skills focused on employability. I entered there as an intern, I was Community Manager and Tech Analyst.</h3></li></p>
+ <p><li><h3><b>👨‍💻 My last job was as a Systems Analyst at <u><a href="https://dio.me/">Digital Innovation One</a>, which is a free edTech to improve IT software development skills; in addition to soft skills focused on employability. I entered there as an intern, I was Community Manager and Tech Analyst.<b/></h3></li></p>
 
 
 
-<p><li><h3>🏆I am one of the best placed in reputation within the platform because I really enjoy helping other people, as I also support other IT communities. I believe in the power of working together and in synergy.🙏</h3></li></p>
+<p><li><h3><b>🏆I am one of the best placed in reputation within the platform because I really enjoy helping other people, as I also support other IT communities. I believe in the power of working together and in synergy.🙏<b/></h3></li></p>
   
 </ul>
 <p align="center">
