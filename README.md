@@ -7,7 +7,7 @@
 </p>
 
 <ul>
-  <p><li><h3><b>🎓 Training in <b> Information Technology Management</b> na <a href="https://ucb.catolica.edu.br/">Universidade Católica de Brasília-UCB</b>📓</a></li></p>
+  <p><li><h3><b>🎓 Graduating in <b> Information Technology Management</b> na <a href="https://ucb.catolica.edu.br/">Universidade Católica de Brasília-UCB</b>📓</a></li></p>
 
 <ul>
   
