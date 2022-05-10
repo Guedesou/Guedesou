@@ -1,23 +1,23 @@
-<p>
-<h1 align="center"><b>🌎Welcome to my world, collaborator person@!🛸</b></h1>
-</p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/Yh0Q9G40KirBYM6tIs/giphy.gif" width="500" alt="animated"/>
-</p>
+ <p>
+<h1 align="center"><b><img src="https://media.giphy.com/media/InHvdOCyh7aXMm5R3n/giphy.gif" width="80">Welcome to my world, visitors!</b><img align= 'right' src="https://media.giphy.com/media/KzV5NWeRokeOgfZtnQ/giphy.gifhttps://media.giphy.com/media/oX8Wh3bwHJ0TFTlT6J/giphy.gif" width="300" alt="animated"/></h1> 
+ </p>
 
 <ul>
-  <p><li><h3><b>🎓 Graduating in <b> Information Technology Management</b> na <a href="https://ucb.catolica.edu.br/">Universidade Católica de Brasília-UCB</b>📓</a></li></p>
-
-<ul>
+  <p><h3><b>🎓 Graduating in <b> IT Management</b> at <a href="https://ucb.catolica.edu.br/">Universidade Católica de Brasília-UCB</b></a>
+</p>
   
- <p><li><h3><b>👨‍💻 My last job was as a Systems Analyst at <u><a href="https://dio.me/">Digital Innovation One</a>, which is a free edTech to improve IT software development skills; in addition to soft skills focused on employability. I entered there as an intern, I was Community Manager and Tech Analyst.<b/></h3></li></p>
+ <p><h3><b>
+       📌 Experience with Development, Content Creator and Community Management: I am part of the <a href="https://app.rocketseat.com.br/me/guedes">RocketSeat Community</a>; and I also worked and helped students at 
+<a href="https://dio.me/">dio.me</a>- where I am one of the best places in reputation and contribution in the international ranking on the study platform;
 
+  </br>📌 I am a contributing part of the Community of IT students at the Catholic University of Brasília, UCB;
 
+  </br>📌 Founder of <a href="https://www.linkedin.com/groups/9032010/">Grupo Diversi-TI</a> - administrator and interested in helping people relocate in IT services;
 
-<p><li><h3><b>🏆I am one of the best placed in reputation within the platform because I really enjoy helping other people, as I also support other IT communities. I believe in the power of working together and in synergy.🙏<b/></h3></li></p>
-  
-</ul>
+</br>📌I post articles on <a href="https://medium.com/@sradtsor">Medium</a>;
+<a href="https://dio.me/"></a>, which is a free edTech to improve IT software development skills; in addition to soft skills focused on employability. I entered there as an intern, I was Community Manager and Tech Analyst.<b/></h3></p>
+
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guedesou&layout=compact&theme=highcontrast"> 
 </p>
@@ -26,7 +26,11 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Guedesou&show_icons=true&theme=highcontrast"> 
 </p>
 
-<h3 align="center">Contact me:</h3>
+<p align="center">
+  <img align="center" src="https://media.giphy.com/media/EAZNrYsT7fzttW2lgf/giphy.gif" width="150"></ > 
+</p>
+
+<h2 align="center">Mayday! Mayday! Contact me: <img src="https://media.giphy.com/media/f8Old4J27xQmotsBqg/giphy.gif" width="90"></h3>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/guedesou/" target="blank"><img alt="Linkedin Badge" src="https://img.shields.io/badge/-Thiago%20Guedes-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guedesou/"/></a>
@@ -34,8 +38,8 @@
 <a href="mailto:sradtsor@gmail.com" target="blank"><img alt="Gmail Badge" src="https://img.shields.io/badge/-sradtsor@gmail.com-black?style=flat-square&logo=Gmail&logoColor=orange&link=mailto:sradtsor@gmail.com"/></a></p>
 
   
-<p align="center">
-<img src="https://media0.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=ecf05e47xjqleacp3bla5o77tk5yfaywkxzqfiw0jvth4hmo&rid=giphy.gif" width="250" alt="animated" /> 
-  </p>
-  
-<h2 align="center"><b>Thank you for visiting my planet!👨‍🚀</b></h2>
+</br><h2 align="center"><b>Thanks for visiting my planet!</b><img src="https://media.giphy.com/media/4Noc2xRjAz0WdSuMai/giphy.gif" width="80"></h2>
+
+ <p align="center">
+<img src="https://media.giphy.com/media/TK53HEZJFVZSBE7Q6W/giphy.gif" width="400" alt="animated"/>
+ </p>
