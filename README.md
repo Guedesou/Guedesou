@@ -4,14 +4,14 @@
  </p>
 
 <ul>
-  <p><h3><b>🎓 Graduating in <b> IT Management</b> at <a href="https://ucb.catolica.edu.br/">Universidade Católica de Brasília-UCB</b></a>
+  <p><h3><b>🎓IT Management at <a href="https://ucb.catolica.edu.br/">Universidade Católica de Brasília-UCB</b></a>
 </p>
   
  <p><h3><b>
        📌 Experience with Development, Content Creator and Community Management: I am part of the <a href="https://app.rocketseat.com.br/me/guedes">RocketSeat Community</a>; and I also worked and helped students at 
 <a href="https://dio.me/">dio.me</a>- where I am one of the best places in reputation and contribution in the international ranking on the study platform;
 
-  </br>📌 I am a contributing part of the Community of IT students at the Catholic University of Brasília, UCB;
+  </br>📌 I am a contributing part of the Community of IT students at <a href="https://ucb.catolica.edu.br/">Universidade Católica de Brasília-UCB</b></a>;
 
   </br>📌 Founder of <a href="https://www.linkedin.com/groups/9032010/">Grupo Diversi-TI</a> - administrator and interested in helping people relocate in IT services;
 
