@@ -1,10 +1,10 @@
 
  <p>
-<h1 align="center"><b><img src="https://media.giphy.com/media/InHvdOCyh7aXMm5R3n/giphy.gif" width="80">Welcome to my World, visitors!</b><img align= 'right' src="https://media.giphy.com/media/KzV5NWeRokeOgfZtnQ/giphy.gifhttps://media.giphy.com/media/oX8Wh3bwHJ0TFTlT6J/giphy.gif" width="200" alt="animated"/></h1> 
+<h1 align="center"><b><img src="https://media.giphy.com/media/InHvdOCyh7aXMm5R3n/giphy.gif" width="80">Welcome to my World, visitors!</b><img align= 'right' src="https://media.giphy.com/media/KzV5NWeRokeOgfZtnQ/giphy.gifhttps://media.giphy.com/media/oX8Wh3bwHJ0TFTlT6J/giphy.gif" width="150" alt="animated"/></h1> 
  </p>
 
 <ul>
-  <p><h3><b>🎓 IT Management at <a href="https://ucb.catolica.edu.br/">Universidade Católica de Brasília-UCB</b></a>
+  <p><h3><b>🎓 𝐼𝑇 𝑀𝑎𝑛𝑎𝑔𝑒𝑚𝑒𝑛𝑡 𝑎𝑡 <a href="https://ucb.catolica.edu.br/">𝐔𝐧𝐢𝐯𝐞𝐫𝐬𝐢𝐝𝐚𝐝𝐞 𝐂𝐚𝐭𝐨𝐥𝐢𝐜𝐚 𝐝𝐞 𝐁𝐫𝐚𝐬𝐢𝐥𝐢𝐚-𝐔𝐂𝐁</b></a>
 </p>
   
  <p><h3><b>
