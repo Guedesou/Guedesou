@@ -19,11 +19,11 @@
 
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guedesou&layout=compact&theme=highcontrast"> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guedesou&layout=compact&theme=jolly"> 
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Guedesou&show_icons=true&theme=highcontrast"> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Guedesou&show_icons=true&theme=jolly"> 
 </p>
 
 <p align="center">
