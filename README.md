@@ -18,12 +18,12 @@
   </br>✍🏻 𝐼 𝑝𝑜𝑠𝑡 𝑎𝑟𝑡𝑖𝑐𝑙𝑒𝑠 𝑜𝑛 <a href="https://medium.com/@sradtsor">𝐌𝐞𝐝𝐢𝐮𝐦</a> 𝑎𝑛𝑑 <a href="https://www.linkedin.com/newsletters/artigos-para-o-intervalo-6864175629416329216/">𝐋𝐢𝐧𝐤𝐞𝐝𝐈𝐧</a>;
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guedesou&layout=compact&theme=jolly"> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guedesou&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"> 
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Guedesou&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"> 
 </p>
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Guedesou&show_icons=true&theme=jolly"> 
-</p>
 
 <p align="center">
   <img align="center" src="https://media.giphy.com/media/EAZNrYsT7fzttW2lgf/giphy.gif" width="100"></ > 
