@@ -15,7 +15,7 @@
 
   </br>🖖🏼 Founder of <a href="https://www.linkedin.com/groups/9032010/">Diversi-TI</a>- a group in LinkedIn for those in the IT area and looking for vacancies to relocate.
 
- </br>🛰 I post articles on <a href="https://medium.com/@sradtsor">Medium</a> and <a href="https://www.linkedin.com/newsletters/artigos-para-o-intervalo-6864175629416329216/">LinkedIn</a>;
+ </br>🛰 I post articles on <a href="https://medium.com/@sradtsor">Medium</a> and <a href="https://www.linkedin.com/newsletters/artigos-para-o-intervalo-6864175629416329216/">LinkedIn.</a>
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guedesou&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"> 
