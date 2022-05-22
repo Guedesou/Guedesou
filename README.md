@@ -8,7 +8,7 @@
 </p>
   
  <p><h3 align="center">
-       🐱‍🚀 Experience with Development in Java (Spring Boot), React e NodeJs. Content Creator and Community Manager, in my free time. </br>
+       🐱‍🚀 Experience with Development in Java (Spring Boot), React e NodeJs.</br>
 </br>🚀 I am part of the <a href="https://app.rocketseat.com.br/me/guedes">RocketSeat Community;</a>  
 </br>🤖 I also worked and helped students at <a href="https://dio.me/">dio.me;</a>
 </br>🛸 I am part of the IT student Community at <a href="https://ucb.catolica.edu.br/">Universidade Católica de Brasília-𝐔𝐂𝐁</b></a>.
