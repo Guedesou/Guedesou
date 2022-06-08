@@ -1,6 +1,6 @@
 
  <p>
-<h1 align="center"><b><img src="https://media.giphy.com/media/KzV5NWeRokeOgfZtnQ/giphy.gifhttps://media.giphy.com/media/oX8Wh3bwHJ0TFTlT6J/giphy.gif" width="100">Welcome to my world, visitors! </b><img align= 'right' src="https://media.giphy.com/media/SwJ7tp8rs0lxRLEQ4c/giphy.gif" width="130" alt="animated"/></h1> 
+<h1 align="center"><b><img src="https://media.giphy.com/media/KzV5NWeRokeOgfZtnQ/giphy.gifhttps://media.giphy.com/media/oX8Wh3bwHJ0TFTlT6J/giphy.gif" width="100">Welcome to my world, visitors! </b><img align= "center" src="https://media.giphy.com/media/ZmcpQkCL0SBESH0V03/giphy.gif" width="130" alt="animated"/></h1> 
  </p>
 
 <ul>
