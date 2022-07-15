@@ -8,22 +8,15 @@
 </p>
   
  <p><h3 align="center">
-       🐱‍🚀 Certified and Experienced with Java Development (Spring Boot), React and NodeJs.</br>
-</br>🚀 I am part of the <a href="https://app.rocketseat.com.br/me/guedes">RocketSeat Community;</a>  
-</br>🤖 I also worked and helped students at <a href="https://dio.me/">dio.me;</a>
-</br>🛸 I am part of the IT student Community at <a href="https://ucb.catolica.edu.br/">Universidade Católica de Brasília-𝐔𝐂𝐁.</b></a>
-
-  </br>🖖🏼 Founder of <a href="https://www.linkedin.com/groups/9032010/">Diversi-TI</a>- a group in LinkedIn for those in the IT area and looking for vacancies to relocate.
-
- </br>🛰 I post articles on <a href="https://medium.com/@sradtsor">Medium</a> and <a href="https://www.linkedin.com/newsletters/artigos-para-o-intervalo-6864175629416329216/">LinkedIn.</a>
-
+       🐱‍🚀 Certified and experienced in Java (Spring Boot), React and NodeJs projects.</br>
+</br>🚀 I am part of the <a href="https://app.rocketseat.com.br/me/guedes">RocketSeat Community;</a>  </br>
+</br>🤖 I also worked and helped students at <a href="https://dio.me/">dio.me;</a> </br>
+</br>🛰 I post articles on <a href="https://www.linkedin.com/newsletters/artigos-para-o-intervalo-6864175629416329216/">LinkedIn.</a> </br>
+</p>
+</br>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guedesou&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"> 
 </p>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Guedesou&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"> 
-</p>
-
 
 <p align="center">
   <img align="center" src="https://media.giphy.com/media/EAZNrYsT7fzttW2lgf/giphy.gif" width="100"></ > 
