@@ -14,9 +14,10 @@
 </br>🛰 I post articles on <a href="https://www.linkedin.com/newsletters/artigos-para-o-intervalo-6864175629416329216/">LinkedIn.</a> </br>
 </p>
 </br>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guedesou&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"> 
-</p>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guedesou&langs_count=10&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <p align="center">
   <img align="center" src="https://media.giphy.com/media/EAZNrYsT7fzttW2lgf/giphy.gif" width="100"></ > 
