@@ -4,14 +4,14 @@
  </p>
 
 <ul>
-  <p><h3 align="center"><b>🎓 IT Management at <a href="https://ucb.catolica.edu.br/">Universidade Católica de Brasília-𝐔𝐂𝐁.</b></a>
+  <p><h3 align="center"><b>🎓 IT Management at <a href="https://ucb.catolica.edu.br/">Universidade Católica de Brasília-𝐔𝐂𝐁</b></a>.
 </p>
   
  <p><h3 align="center">
-       🐱‍🚀 Certified and experienced in Java (Spring Boot), React and NodeJs projects.</br>
-</br>🚀 I am part of the <a href="https://app.rocketseat.com.br/me/guedes">RocketSeat Community;</a>  </br>
-</br>🤖 I also worked and helped students at <a href="https://dio.me/">dio.me;</a> </br>
-</br>🛰 I post articles on <a href="https://www.linkedin.com/newsletters/artigos-para-o-intervalo-6864175629416329216/">LinkedIn.</a> </br>
+     👨🏼‍💻 Certified and experienced in Java (Spring Boot), React and NodeJs projects.</br>
+</br>🚀 I am part of the <a href="https://app.rocketseat.com.br/me/guedes">RocketSeat Community</a>. </br>
+</br>🤖 I also worked and helped students at <a href="https://dio.me/">dio.me</a>. </br>
+</br>🛰 I post articles on <a href="https://www.linkedin.com/newsletters/artigos-para-o-intervalo-6864175629416329216/">LinkedIn</a>. </br>
 </p>
 </br>
 
