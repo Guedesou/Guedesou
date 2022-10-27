@@ -26,9 +26,9 @@
 <h2 align="center"><img src="https://media.giphy.com/media/f8Old4J27xQmotsBqg/giphy.gif" width="70">Mayday! Mayday! Contact Me:<img src="https://media.giphy.com/media/f8Old4J27xQmotsBqg/giphy.gif" width="70"></h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/guedesou/" target="blank"><img alt="Linkedin Badge" src="https://img.shields.io/badge/-Thiago%20Guedes-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guedesou/"/></a>
+<a href="https://www.linkedin.com/in/guedesou/" target="blank"><img alt="Linkedin Badge" src="https://img.shields.io/badge/-Thiago%20Guedes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guedesou/"/></a>
  <a href="https://guedesou.medium.com" target="blank"><img alt="Medium Badge" src="https://img.shields.io/badge/-Thiago%20Guedes-black?style=flat-square&logo=Medium&logoColor=white&link=https://guedesou.medium.com/"/></a>
-<a href="mailto:sradtsor@gmail.com" target="blank"><img alt="Gmail Badge" src="https://img.shields.io/badge/-sradtsor@gmail.com-black?style=flat-square&logo=Gmail&logoColor=orange&link=mailto:sradtsor@gmail.com"/></a></p>
+<a href="mailto:sradtsor@gmail.com" target="blank"><img alt="Gmail Badge" src="https://img.shields.io/badge/-sradtsor@gmail.com-white?style=flat-square&logo=Gmail&logoColor=orange&link=mailto:sradtsor@gmail.com"/></a></p>
 
   
  <p align="center">
