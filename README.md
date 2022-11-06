@@ -20,7 +20,7 @@
 
 
 <p align="center">
-  <img align="center" src="https://media.giphy.com/media/EAZNrYsT7fzttW2lgf/giphy.gif" width="100"></ > 
+  <img align="center" src="https://media.giphy.com/media/EAZNrYsT7fzttW2lgf/giphy.gif" width="100"></> 
 </p>
 
 <h2 align="center"><img src="https://media.giphy.com/media/f8Old4J27xQmotsBqg/giphy.gif" width="70">Mayday! Mayday! Contact Me:<img src="https://media.giphy.com/media/f8Old4J27xQmotsBqg/giphy.gif" width="70"></h3>
