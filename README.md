@@ -4,7 +4,7 @@
  </p>
 
 <ul>
-  <p><h3 align="center"><b>🎓 IT Management at <a href="https://ucb.catolica.edu.br/">Universidade Católica de Brasília-𝐔𝐂𝐁</b></a>
+  <p><h3 align="center"><b>🎓 IT Management at <a href="https://ucb.catolica.edu.br/">Universidade Católica de Brasília-𝐔𝐂𝐁</b>.</a>
 </p>
   
  <p><h3 align="center">
