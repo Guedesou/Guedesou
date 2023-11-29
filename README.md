@@ -34,3 +34,13 @@
 <p align="center">
   <img src="https://media.giphy.com/media/l0ExuBDAjbAI2WT3q/giphy.gif" width="300" alt="animated"/>
 </p>
+<div align="center">
+  <h3><b>Quantos navegaram até aqui?</b></h3>
+</div>
+
+<p align="center">
+  <img
+    src="https://profile-counter.glitch.me/Guedesou/count.svg"
+    alt="Ilustração do número de visitantes no perfil"
+  />
+</p>
