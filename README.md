@@ -9,10 +9,6 @@
 <p align="center">
   <h3 align="center">
     👨🏼‍💻 Certificado e experiente em projetos Java (Spring Boot), React e NodeJs.</br>
-    </br>🚀 Participo da Comunidade <a href="https://app.rocketseat.com.br/me/guedes">RocketSeat</a>.</br>
-    </br>🤖 Colaboro e auxilio estudantes na <a href="https://dio.me/">dio.me</a>.</br>
-    </br>🛰 Escrevo artigos no <a href="https://www.linkedin.com/newsletters/artigos-para-o-intervalo-6864175629416329216/">LinkedIn</a>.</br>
-  </h3>
 </p>
 
 <p align="center">
